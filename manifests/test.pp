@@ -1,4 +1,4 @@
-class test {
+class rtr::test {
 
 notify { 'TEST ME': }
 }
