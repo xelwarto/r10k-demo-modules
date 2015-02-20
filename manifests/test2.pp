@@ -1,4 +1,4 @@
-class test {
+class test2 {
 
 notify { 'TEST ME': }
 }
